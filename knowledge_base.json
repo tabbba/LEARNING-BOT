@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Your question here",
+      "answer": "Your answer here"
+    },
+    {
+      "question": "Hello!",
+      "answer": "Hello there!"
+    },
+    {
+      "question": "WHen did the French Revolution began?",
+      "answer": "1789!"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello there"
+    }
+  ]
+}
